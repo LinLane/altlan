@@ -1,0 +1,46 @@
+.banners-container {
+  margin-top: 10px;
+}
+img{
+  margin-top: 10px;
+}
+.banner-content {
+  color: #ffffff;
+}
+.banner-content div{
+  padding-left: 20px;
+}
+.banners-row .col-xs-16,.banners-row .col-xs-8{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.banner1 {
+  background: url('../../content/img/mcd-banner-final.jpg');
+  height: 450px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.banner2 {
+  background: url('../../content/img/McD_rmhc_final.jpg');
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+.banner2:hover {
+  transform: scale(1.15);
+}
+.banner3:hover {
+  transform: scale(1.15);
+}
+.banner3 {
+  background: url('../../content/img/banner-6.jpg');
+  height: 220px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  margin-top: 10px;
+}

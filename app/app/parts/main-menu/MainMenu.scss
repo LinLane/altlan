@@ -1,0 +1,25 @@
+.main-menu {
+  background: url('./content/img/menu_img.jpg');
+  background-repeat: repeat-x;
+}
+.menu-header {
+  list-style-type: none;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+.menu-item {
+  font-size: 19px;
+  text-transform: uppercase;
+  padding: 32px 10px 26px 10px;
+}
+.menu-item a, .menu-item a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+.menu-item a:hover {
+  color: yellow;
+  text-decoration: underline;
+}

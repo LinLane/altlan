@@ -1,0 +1,17 @@
+.news-preview {
+  margin-top: 10px;
+  padding: 24px;
+}
+
+.news-preview:hover {
+  background-color: yellow;
+}
+
+.news-preview:hover img {
+  opacity: 1;
+}
+.news-preview img {
+  height: 170px;
+  max-width: 100%;
+  opacity: 0.5;
+}
